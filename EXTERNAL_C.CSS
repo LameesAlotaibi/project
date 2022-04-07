@@ -1,0 +1,66 @@
+body {
+    background-image: url("background-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    }
+    input{
+          /** height: 250px; width: 200px;**/
+            
+             
+             margin-left: auto;
+             margin-right: auto;
+             margin-top: 10px;
+             display: block;
+             font-size: 24px;
+             text-align: center;
+             position: relative;
+             
+             
+       
+            
+         }
+     /*   button{
+            
+            background-color: #4CAF50; /* Green 
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+
+        }*/
+
+        
+         label{
+           
+                 margin-left: auto;
+                 margin-right: auto;
+                 margin-top: 10px;
+                 display: block;
+                 font-size: 24px;
+                 text-align: center;
+                 position: relative;
+                 
+                 
+           
+                
+             }
+             input.i_send{
+                 background-color: red;
+                 color: wheat;
+                 border-radius: 5px;
+                 border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+
+             }
+            
+       
+         
+   
+        
+     
